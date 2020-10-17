@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CapoeiraChooser</string>
+    <string name="selectedTrainText">"What should we train?"</string>
+    <string name="workoutAutoFillHint">"This will add workouts to the list of workouts"</string>
+    <string name="workoutHint">"enter new workout..."</string>
+    <string name="addWorkoutButton">"ADD WORKOUT"</string>
+    <string name="chooseWorkoutButton">CHOOSE WORKOUT!"</string>
+</resources>
